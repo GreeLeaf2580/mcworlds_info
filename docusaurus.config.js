@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'o绿叶o',
+  tagline: '让我们做叶的事业吧',
+  favicon: 'img/favicon.jpg',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -76,10 +76,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'o绿叶oの个人博客',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.jpg',
         },
         items: [
           {
@@ -134,12 +134,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/GreeLeaf2580',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `版权归 © ${new Date().getFullYear()} o绿叶o所有  本站使用 Docusaurus 构建`,
       },
       prism: {
         theme: prismThemes.github,
