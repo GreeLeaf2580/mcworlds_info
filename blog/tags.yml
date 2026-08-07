@@ -17,3 +17,49 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+二字十部曲:
+  label: 二字十部曲
+  permalink: /1W10W
+  description: 该系列10+个世界。每个世界拥有独特的玩法
+
+“绿尘”药水游戏:
+  label: “绿尘”药水游戏
+  permalink: /effect
+  description: 该系列使用药水效果制作而成的游戏。虽说早期Echeng部分参与，但是基本上还是o绿叶o自己完成的
+
+人物:
+  label: 人物
+  permalink: /vacation
+  description: 以……者结尾。
+
+时光探者（原：场景跑酷）:
+  label: 时光探者（原：场景跑酷）
+  permalink: /timetracer
+  description: 一系列有主题的跑酷地图。
+
+小游戏:
+  label: 小游戏
+  permalink: /minigame
+  description: 小游戏地图。
+
+解谜:
+  label: 解谜
+  permalink: /puzzle
+  description: 解谜地图
+
+
+跑酷:
+  label: 跑酷
+  permalink: /parkour
+  description: 跑酷地图
+
+PVE:
+  label:  PVE
+  permalink: /pve
+  description:  打怪地图
+
+参与建筑:
+  label: 参与建筑
+  permalink: /justbuilding
+  description: o绿叶o仅参与其中的建筑。其余部分由其他好朋友完成。

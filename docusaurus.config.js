@@ -4,67 +4,68 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from "prism-react-renderer";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'o绿叶o',
-  tagline: '让我们做叶的事业吧',
-  favicon: 'img/favicon.jpg',
+  title: "o绿叶o",
+  tagline: "让我们做叶的事业吧",
+  favicon: "img/favicon.jpg",
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: "https://your-docusaurus-site.example.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: "facebook", // Usually your GitHub org/user name.
+  projectName: "docusaurus", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "zh-Hans",
+    locales: ["en", "zh-Hans"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //// editUrl:
+          ////   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+          // routeBasePath: "/blog",
           showReadingTime: true,
           feedOptions: {
-            type: ['rss', 'atom'],
+            type: ["rss", "atom"],
             xslt: true,
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //// editUrl:
+          ////  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onInlineTags: "warn",
+          onInlineAuthors: "warn",
+          onUntruncatedBlogPosts: "warn",
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       }),
     ],
@@ -74,72 +75,99 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: 'o绿叶oの个人博客',
+        //顶部栏
+        title: "o绿叶oの个人小站",
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.jpg',
+          alt: "My Site Logo",
+          src: "img/logo.jpg",
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            type: "docSidebar",
+            sidebarId: "tutorialSidebar",
+            position: "left",
+            label: "技术文档",
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: "/blog", label: "作品博客", position: "left" },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/facebook/docusaurus",
+            label: "GitHub",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        //底部栏
+        style: "dark",
         links: [
           {
-            title: 'Docs',
+            title: "资源",
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: "o绿叶o的作品博客",
+                to: "/blog",
+              },
+              {
+                label: "量筒测试群 群文档/群资源",
+                href: "https://docs.nekoawa.com/docs/resources/bedwars/"
+              }
+            ]
+          },
+          {
+            title: "文档",
+            items: [
+              {
+                label: "o绿叶o的技术文档",
+                to: "/docs/intro",
+              },
+              {
+                label: "量筒的 Minecraft 基岩版开发文档",
+                href: "https://yzbwdlt.pages.dev/blog"
+              },
+              {
+                label: "量筒测试群 群文档",
+                href: "https://docs.nekoawa.com"
               },
             ],
           },
           {
-            title: 'Community',
+            title: "联系我",
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: "极筑 · 量筒地图测试群",
+                href: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&group_code=673941729",
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: "BiliBili",
+                href: "https://space.bilibili.com/13388945",
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: "QQ",
+                href: "https://qm.qq.com/q/jmYMHADATS",
               },
             ],
           },
           {
-            title: 'More',
+            title: "关于",
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: "Blog",
+                to: "/blog",
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/GreeLeaf2580',
+                label: "本站GitHub项目地址",
+                href: "https://github.com/GreeLeaf2580/mcworlds_info",
+              },
+              {
+                label: "本站使用 Docusaurus 构建",
+                href: "https://docusaurus.io/",
               },
             ],
           },
         ],
-        copyright: `版权归 © ${new Date().getFullYear()} o绿叶o所有  本站使用 Docusaurus 构建`,
+        copyright: `版权归 © ${new Date().getFullYear()} o绿叶o 所有`,
       },
       prism: {
         theme: prismThemes.github,
