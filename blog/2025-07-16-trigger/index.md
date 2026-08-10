@@ -1,11 +1,13 @@
 ---
 slug: trigger
 title: 触发
-authors: Greeleaf
+authors: greeleaf
 tags: [二字十部曲, 小游戏, 解谜]
 ---
 [![触发封面](./image/gallery/world_icon.jpeg)](/blog/trigger)
 递进式创新解密的基岩版地图，完全支持多人合作游玩
+
+---
 
 <!-- truncate -->
 

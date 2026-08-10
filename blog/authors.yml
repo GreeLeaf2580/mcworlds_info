@@ -1,32 +1,32 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    github: yangshun
+# yangshun:
+#   name: Yangshun Tay
+#   title: Front End Engineer @ Facebook
+#   url: https://github.com/yangshun
+#   image_url: https://github.com/yangshun.png
+#   page: true
+#   socials:
+#     x: yangshunz
+#     github: yangshun
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+# slorber:
+#   name: Sébastien Lorber
+#   title: Docusaurus maintainer
+#   url: https://sebastienlorber.com
+#   image_url: https://github.com/slorber.png
+#   page:
+#     # customize the url of the author page at /blog/authors/<permalink>
+#     permalink: '/all-sebastien-lorber-articles'
+#   socials:
+#     x: sebastienlorber
+#     linkedin: sebastienlorber
+#     github: slorber
+#     newsletter: https://thisweekinreact.com
 
-Greeleaf:
+greeleaf:
   name: o绿叶o
   title: 致力于高质量的免费地图。专注于*跑酷和小游戏*地图的开发，希望带给玩家更多的欢乐，请多多关照:)
   url: https://github.com/greeleaf2580
-  image_url: /img/author/greeleaf.jpg
+  image_url: /img/author/GreeLeaf.jpg
   email: greeleaf@foxmail.com
   page: true
   socials:
@@ -34,7 +34,7 @@ Greeleaf:
     bilibili: https://space.bilibili.com/13388945
     github: https://github.com/greeleaf2580
 
-YZBWDLT:
+yzbwdlt:
   name: 一只卑微的量筒
   title: Hi, 我是@YZBWDLT（一只卑微的量筒），是一只喜欢天平和氢氟酸的奇怪量筒 :)
   url: https://github.com/YZBWDLT
@@ -45,7 +45,7 @@ YZBWDLT:
     bilibili: https://space.bilibili.com/241650193
     github: https://github.com/YZBWDLT
 
-Andy7343:
+andy7343:
   name: 狂野巴豆
   title:  这个巴豆懒死了，什么都没有写('◇'｀)
   url: https://space.bilibili.com/423446240

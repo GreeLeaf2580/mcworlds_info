@@ -5,6 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from "prism-react-renderer";
+// import blogPluginExtended from "./plugins/blog-plugin-extended";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -70,6 +71,7 @@ const config = {
       }),
     ],
   ],
+  // plugins:[blogPluginExtended],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -91,11 +93,6 @@ const config = {
             label: "技术文档",
           },
           { to: "/blog", label: "作品博客", position: "left" },
-          {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
-            position: "right",
-          },
         ],
       },
       footer: {
