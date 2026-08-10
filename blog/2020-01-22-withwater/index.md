@@ -5,7 +5,7 @@ authors: greeleaf
 tags: [“绿尘”药水游戏, 解谜, 跑酷]
 ---
 [![随波逐流封面](./image/gallery/world_icon.jpeg)](/blog/withwater)
-由水下呼吸效果制成的 寻找出口的解谜，带一些跑酷，为一次性游玩地图
+With Water由水下呼吸效果制成的 寻找出口的解谜，带一些跑酷，为一次性游玩地图
 
 ---
 
