@@ -123,7 +123,7 @@ export default function Home() {
             subtitle="连接数据库的ORM模型"
             description="SQLAlchemy SQL 工具包和对象关系映射器是一套全面的工具，用于处理数据库和 Python。它有几个不同的功能领域，可以单独使用或组合使用。"
             tags={['数据库', 'Python']}
-            to="/docs"
+            to="/docs/intro"
           />
         </WorkSection>
 
