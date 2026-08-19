@@ -79,8 +79,8 @@ tags: [二字十部曲, 小游戏, 解谜]
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-|国内|[<img src="https://resource-minecraft.h5.163.com/static/favicon.png" alt="Neteasy" height="20"/>网易中国版资源中心](https://resource-minecraft.h5.163.com/#/detail?uid=2156009524&id=4678791372825514220)<br/>搜索地图名：触发+，组件码：2351523|[<img src="https://klpbbs.com/favicon.ico" alt="苦力怕论坛" height="20"/>苦力怕论坛](https://klpbbs.com/thread-159914-1-1.html)|[<img src="/img/download/MineBBS.ico" alt="MineBBS" height="20"/>MineBBS](https://www.minebbs.com/resources/11303/) |[<img src="https://www.titaike.cn/wp-content/uploads/2025/02/20250209003742140-zxld9-tswem-001.ico" alt="TITAKE" height="20"/>TITAIKE](https://www.titaike.cn/6649.html)|
-|国际|[**<img src="https://github.githubassets.com/favicons/favicon.png" alt="github" height="20"/>GitHub Releases(推荐)**](https://github.com/GreeLeaf2580/Trigger/releases)|[<img src="/img/download/mcpedl.ico" alt="mcpedl" height="20"/>MCPEDL](https://mcpedl.com/trigger/)|[<img src="/img/download/planetmc.ico" alt="planetmc" height="20"/>Planet Minecraft](https://www.planetminecraft.com/project/trigger-6600634/)
+|国内|[<img src="https://resource-minecraft.h5.163.com/static/favicon.png" alt="Neteasy" height="20"/>网易中国版资源中心](https://resource-minecraft.h5.163.com/#/detail?uid=2156009524&id=4678791372825514220)<br/>搜索地图名：触发+，组件码：2351523|[<img src="https://klpbbs.com/favicon.ico" alt="苦力怕论坛" height="20"/>苦力怕论坛](https://klpbbs.com/thread-159914-1-1.html)|[<img src="/img/download/minebbs.png" alt="MineBBS" height="20"/>MineBBS](https://www.minebbs.com/resources/11303/) |[<img src="https://www.titaike.cn/wp-content/uploads/2025/02/20250209003742140-zxld9-tswem-001.ico" alt="TITAKE" height="20"/>TITAIKE](https://www.titaike.cn/6649.html)|
+|国际|[**<img src="https://github.githubassets.com/favicons/favicon.png" alt="github" height="20"/>GitHub Releases(推荐)**](https://github.com/GreeLeaf2580/Trigger/releases)|[<img src="/img/download/mcpedl.ico" alt="mcpedl" height="20"/>MCPEDL](https://mcpedl.com/trigger/)|[<img src="/img/download/planetmc.png" alt="planetmc" height="20"/>Planet Minecraft](https://www.planetminecraft.com/project/trigger-6600634/)
 
 
 
