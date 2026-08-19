@@ -63,28 +63,32 @@ tags: [二字十部曲, 小游戏, 解谜]
 ## ◎下载链接
 
 :::danger
-本地图为基岩版地图，地图文件为.mcworld或.mcworld.zip，适用于Minecraft国际版。
+<img src="https://bugs.mojang.com/Minecraft_Bedrock.svg" alt="基岩版" width="80%"></img>
+本地图为基岩版地图，地图文件为.mcworld或.mcworld.zip，适用于Minecraft国际版。网易中国版请从其资源中心搜索获取。
+:::
+
 
 其中.mcworld文件的导入方法对于windows设备 直接打开即可，对于安卓设备 下载后“用其他应用打开”->“Minecraft”->“仅此一次”
 
 .mcworld.zip文件的导入方法，可以直接删去.zip后缀保留.mcworld后缀，再按照.mcworld导入即可。再麻烦一些需要将文件解压到游戏的minecraftWorlds目录下，该目录位置windows设备和安卓设备不相同。
 
 参考链接(https://www.titaike.cn/tutorial)
-:::
+
 
 ### 各大平台
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-|国内|[苦力怕论坛](https://klpbbs.com/thread-159914-1-1.html)|[MineBBS](https://www.minebbs.com/resources/11303/) |[TITAIKE](https://www.titaike.cn/6649.html)|[网易中国版资源中心](https://resource-minecraft.h5.163.com/#/detail?uid=2156009524&id=4678791372825514220 "搜索地图名：触发+，组件码：2351523")
-|国际|[**GitHub Releases(推荐)**](https://github.com/GreeLeaf2580/Trigger/releases)|[MCPEDL](https://mcpedl.com/trigger/)|[Planet Minecraft](https://www.planetminecraft.com/project/trigger-6600634/)
+|国内|[<img src="https://resource-minecraft.h5.163.com/static/favicon.png" alt="Neteasy" height="20"/>网易中国版资源中心](https://resource-minecraft.h5.163.com/#/detail?uid=2156009524&id=4678791372825514220)<br/>搜索地图名：触发+，组件码：2351523|[<img src="https://klpbbs.com/favicon.ico" alt="苦力怕论坛" height="20"/>苦力怕论坛](https://klpbbs.com/thread-159914-1-1.html)|[<img src="/img/download/MineBBS.ico" alt="MineBBS" height="20"/>MineBBS](https://www.minebbs.com/resources/11303/) |[<img src="https://www.titaike.cn/wp-content/uploads/2025/02/20250209003742140-zxld9-tswem-001.ico" alt="TITAKE" height="20"/>TITAIKE](https://www.titaike.cn/6649.html)|
+|国际|[**<img src="https://github.githubassets.com/favicons/favicon.png" alt="github" height="20"/>GitHub Releases(推荐)**](https://github.com/GreeLeaf2580/Trigger/releases)|[<img src="/img/download/mcpedl.ico" alt="mcpedl" height="20"/>MCPEDL](https://mcpedl.com/trigger/)|[<img src="/img/download/planetmc.ico" alt="planetmc" height="20"/>Planet Minecraft](https://www.planetminecraft.com/project/trigger-6600634/)
+
+
 
 ### 测试群获取
 
 欢迎加入[极筑 · 量筒地图测试群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&group_code=673941729)，从群文件中获取
 
 ### 网盘
-
-[123云盘](https://www.123684.com/s/wIwKTd-kua6d) 提取码:6Pa7
-
-[蓝奏云](https://wwum.lanzoub.com/b0180j3na) 密码:Leaf
+| | |
+| --- | --- |
+|[<img src="https://statics.123957.com/static-by-custom/favicon.ico" alt="123云盘" height="20" />123云盘](https://www.123684.com/s/wIwKTd-kua6d)  提取码:6Pa7|[<img src="https://assets.bakstotre.com/assets/favicon.ico" alt="蓝奏云" height="20" />蓝奏云](https://wwum.lanzoub.com/b0180j3na#Leaf) 密码:Leaf|

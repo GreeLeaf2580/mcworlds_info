@@ -81,10 +81,12 @@ export default function Home() {
       title="个人主页"
       description="我的世界地图作者的个人作品集"
     >
+      
       <HomepageHeader />
       
       <main>
         {/* 作品集 - 绿尘药水游戏系列 */}
+
         <WorkSection title="作品博客" subtitle="主创和参与制作的MCBE地图">
           <WorkCard 
             title="触发" 
