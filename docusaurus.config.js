@@ -125,7 +125,7 @@ const config = {
             items: [
               {
                 label: "o绿叶o的技术文档",
-                to: "/docs/intro",
+                to: "/docs/tech",
               },
               {
                 label: "量筒的 Minecraft 基岩版开发文档",
