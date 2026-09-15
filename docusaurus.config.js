@@ -44,6 +44,7 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
+          showLastUpdateTime:false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //// editUrl:
@@ -89,11 +90,17 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            sidebarId: "techDocsSidebar",
             position: "left",
             label: "技术文档",
           },
           { to: "/blog", label: "作品博客", position: "left" },
+          {
+            type:"docSidebar",
+            sidebarId:"autobioSidebar",
+            position:"right",
+            label:"    ",
+          },
         ],
       },
       footer: {
