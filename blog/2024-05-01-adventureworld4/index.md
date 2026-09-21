@@ -3,6 +3,7 @@ slug: adventureworld4
 title: 冒险小世界：剑之试炼
 authors: [yzbwdlt, andy7343, greeleaf]
 tags: [PVE, 参与建筑]
+toc_max_heading_level: 2
 ---
 
 [![冒险小世界：剑之试炼封面](./image/gallery/world_icon.jpeg)](/blog/adventureworld4)
