@@ -34,15 +34,12 @@ unlisted: true
 
 ### 通居公寓（原橙客公寓）-上海市浦东新区华夏东路1668弄23号208室
 
-import EastHuaXiaRdRawVideo from "./video/EastHuaXiaRdRaw.mp4";
 
-<p align="center"><video controls width="30%" src={EastHuaXiaRdRawVideo}></video></p>
+<p align="center"><video controls width="30%" src="https://pub-9ffbc6f410d4452382ca0b754abeae80.r2.dev/autobio/lease/EastHuaXiaRdRaw.mp4"></video></p>
 
 &emsp;&emsp;在链家上看到通居公寓这个房子的时候，我还是挺惊讶的，没想到周边房价都那么高了居然还有这种价格洼地的房子。不是链家自营的，就自己私下去通居公寓那个地方实地看看房了 _（跳单中介有些不好意思）_。无窗一居室，还是有些吓人的，不过当时实习工资就3000元，再加上家里有450元/周的生活费的支持，到也是能留下一些结余，就咬咬牙住了。
 
-import EastHuaXiaRdVideo from './video/EastHuaXiaRd.mp4';
-
-<video controls width="100%" src={EastHuaXiaRdVideo}></video>
+<video controls width="100%" src="https://pub-9ffbc6f410d4452382ca0b754abeae80.r2.dev/autobio/lease/EastHuaXiaRd.mp4"></video>
 
 &emsp;&emsp;住这种无窗的房间确实是对人有一些影响。 **首先看不到阳光，对时间的认知有一些混乱，不知道现在是几点，得看电子设备上的时间才知道。其次，通风也很成问题。房间得24h开换气扇，而且容易墙角发霉，所以后期添置了除湿机。**
 
@@ -56,12 +53,9 @@ import EastHuaXiaRdVideo from './video/EastHuaXiaRd.mp4';
 
 &emsp;&emsp;后来因为考研的事情想着，去一个教育资源比较充足的区域。就考虑到虹口区，离杨浦那的新东方比较近。_（早知道应该换一家考研机构，新东方不包含专业课的线下课程，至少我在上海没发现，个人自控力为零还是觉得完全线下的课程能管住自己）_ 就在闲鱼上找虹口的房子，找到这个房子。
 
-import FrenchRawVideo from './video/FrenchRaw.mp4';
-import FrenchVideo from './video/French.mp4';
-
 | 房东视频                                                  | 入住一段时间后的视频                                    |
 | --------------------------------------------------------- | ------------------------------------------------------- |
-| <video controls width="50%" src={FrenchRawVideo}></video> | <video controls width="100%" src={FrenchVideo}></video> |
+| <video controls width="50%" src="https://pub-9ffbc6f410d4452382ca0b754abeae80.r2.dev/autobio/lease/FrenchRaw.mp4"></video> | <video controls width="100%" src="https://pub-9ffbc6f410d4452382ca0b754abeae80.r2.dev/autobio/lease/French.mp4"></video> |
 
 &emsp;&emsp;**这个公寓感觉是酒店改装的，内部的陈设也很像酒店。** 门卡用的酒店房卡，电视也是酒店的电视，还有床头柜。后续我把两个床头柜摞在一起，变成一整个柜子。让房东把床移动到靠墙，能额外多出一些空间。衣柜是嵌入在卫生间旁边，加上移门当隔断。卫生间干湿分离，除了没有卫生间台盆。厨房餐桌是橱柜的柜门，需要的时候九十度翻转撑开，水槽有些小，初始的水龙头比较矮。桌子是柜子+可移动的桌板，比较扁长。我后续买了延长桌，把原来的桌子延长宽边到80cm。
 
