@@ -1,22 +1,3 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
 
 二字十部曲:
   label: 二字十部曲
@@ -59,7 +40,7 @@ PVE:
   permalink: /pve
   description:  打怪地图
 
-参与建筑:
-  label: 参与建筑
-  permalink: /justbuilding
-  description: o绿叶o仅参与其中的建筑。其余部分由其他好朋友完成。
+参与:
+  label: 参与
+  permalink: /participation
+  description: o绿叶o仅参与其中的部分。基本上是建筑。其余部分由其他好朋友完成。

@@ -2,7 +2,7 @@
 slug: adventureworld4
 title: 冒险小世界：剑之试炼
 authors: [yzbwdlt, andy7343, greeleaf]
-tags: [PVE, 参与建筑]
+tags: [PVE, 参与]
 toc_max_heading_level: 2
 ---
 
@@ -17,14 +17,15 @@ toc_max_heading_level: 2
 
 ## ◎相关视频
 
-|  |  |
-| --- | --- |
-|【宣传片】全新MC PVE地图 冒险小世界：剑之试炼 正式发布！【极筑工坊】|【难度1一命攻略】冒险小世界：剑之试炼 官方难度1 剧情模式一命攻略|
-|<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1954227160&bvid=BV12C411E7DB&cid=1531109885&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>|<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1504074619&bvid=BV1LD421K7hs&cid=1534085483&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-|【难度4单人攻略】冒险小世界：剑之试炼 官方难度4 纯战斗模式一命攻略|【最初开始支持我们的视频】你确定这东西能当电话用？【冒险小世界：剑之试炼】EP1（作者 过客解说）|
-|<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112862076864570&bvid=BV15HvWezEty&cid=500001629868230&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>|<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1354148550&bvid=BV1fz421U7Z7&cid=1532064403&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 【宣传片】全新MC PVE地图 冒险小世界：剑之试炼 正式发布！【极筑工坊】                                                                                                                                                                 | 【难度1一命攻略】冒险小世界：剑之试炼 官方难度1 剧情模式一命攻略                                                                                                                                                           |
+| <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1954227160&bvid=BV12C411E7DB&cid=1531109885&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>           | <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1504074619&bvid=BV1LD421K7hs&cid=1534085483&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> |
+| 【难度4单人攻略】冒险小世界：剑之试炼 官方难度4 纯战斗模式一命攻略                                                                                                                                                                   | 【最初开始支持我们的视频】你确定这东西能当电话用？【冒险小世界：剑之试炼】EP1（作者 过客解说）                                                                                                                             |
+| <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112862076864570&bvid=BV15HvWezEty&cid=500001629868230&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> | <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1354148550&bvid=BV1fz421U7Z7&cid=1532064403&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> |
 
 【建筑鉴赏】冒险小世界：剑之试炼の建筑概览
+
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1554312724&bvid=BV1U1421B77D&cid=1538698033&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 **（十分感谢大家对我们的支持 qwq）**
@@ -57,6 +58,7 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 在前作的《冒险世界：苏醒》中，原作者 <AuthorMention authorKey="andy7343" showAvatar/> 使用了盔甲架和按钮的方式实现了NPC的交互。但现在，我们实现了右键即可与NPC完成交互，更加真实而自然，和按钮说拜拜吧！
 
 ![与田英对话](./image/gallery/与田英对话.png)
+
 <center>与田英对话</center>
 
 ### 底层编写分级原版怪物，带来和原版PVE熟悉而陌生的体验
@@ -64,15 +66,16 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 我们对各种怪物都进行了不同程度的修改，使地图更具有趣味性和挑战性。例如，骷髅箭矢的速度被大幅放慢，但却百发百中；蜘蛛和洞穴蜘蛛都将带来恼人的debuff，等等...... 此外大多数怪物都具有等级之分，高级的怪物将更加强悍且更致命，这些都是你在游玩别的地图时所体验不到的！
 
 ![战斗时](./image/gallery/战斗时.png)
+
 <center>分级怪物</center>
 
 ### 真正的BOSS！快来与你试炼路上的超级强敌打个招呼
 
 在试炼路上你将遇到几个强力的BOSS，技能各不相同，本事各有千秋。运用你的战斗技巧和你手上的强力装备打败它们！
 
-| 第1个Boss——骷髅王 | 第3个Boss —— 烈焰之魂，正在释放技能 |
-| --- | --- |
-|![第一个Boss骷髅王](./image/gallery/第一个Boss%20骷髅王.png)|![第三个Boss烈焰之魂](./image/gallery/第三个Boss%20烈焰之魂.png)|
+| 第1个Boss——骷髅王                                            | 第3个Boss —— 烈焰之魂，正在释放技能                              |
+| ------------------------------------------------------------ | ---------------------------------------------------------------- |
+| ![第一个Boss骷髅王](./image/gallery/第一个Boss%20骷髅王.png) | ![第三个Boss烈焰之魂](./image/gallery/第三个Boss%20烈焰之魂.png) |
 
 ### 雪球？绳枪！
 
@@ -84,9 +87,9 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 
 由 <AuthorMention authorKey="greeleaf" showAvatar/> 打造的精美建筑细节，为你的试炼之路再添一分神秘。
 
-| | | |
-| --- | --- | --- | 
-|![精美的场景设计（感谢 o绿叶o！）](./image/gallery/精美的场景设计（感谢%20o绿叶o！）.png)|![场景设计2](./image/gallery/场景设计2.jpg)|![场景设计3](./image/gallery/场景设计3.png)|
+|                                                                                           |                                             |                                             |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| ![精美的场景设计（感谢 o绿叶o！）](./image/gallery/精美的场景设计（感谢%20o绿叶o！）.png) | ![场景设计2](./image/gallery/场景设计2.jpg) | ![场景设计3](./image/gallery/场景设计3.png) |
 
 <center>精美的场景设计（感谢 o绿叶o ！）​</center>
 
@@ -95,6 +98,7 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 在本作的剧情模式中，我们尝试运用新技术实现了诸多视角动画效果，而不再是单调地转圈圈或直勾勾地向前。此外，我们还利用附加包实现了粒子和实体动画，并运用在激动人心的拔剑动画上！
 
 ![拔剑动画](./image/gallery/拔剑动画.png)
+
 <center>拔剑动画</center>
 
 ### 成就系统，挑战自我！
@@ -102,6 +106,7 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 结束了吗？如结！我们在地图的结尾设置了很多具有挑战性的成就，你能否完成这些挑战呢？
 
 ![成就](./image/gallery/成就.png)
+
 <center>成就系统</center>
 
 ## ◎地图下载、漏洞反馈与其他发布平台
@@ -116,8 +121,11 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 
 ### 地图下载
 
-_请注意：虽然我们提供了网易版的支持，但地图并不能直接导入到网易版中，强制导入可能会导致许多问题。您可以尝试去网易版的资源中心查找该地图（同名）（可以搜索 极筑工坊 以查看关于我们的更多地图）_
-_另外，如果您正在使用 1.21.0 或更高的版本，请选择最新版（4.2）游玩，该版本带来了方方面面的游玩体验提升；但如果您正在使用低于 1.21.0 的版本，请选择 4.1 版本游玩。_
+:::danger[请注意]
+
+虽然我们提供了网易版的支持，但地图并不能直接导入到网易版中，强制导入可能会导致许多问题。您可以尝试去网易版的资源中心查找该地图（同名）（可以搜索 极筑工坊 以查看关于我们的更多地图）
+另外，如果您正在使用 1.21.0 或更高的版本，请选择最新版（4.2）游玩，该版本带来了方方面面的游玩体验提升；但如果您正在使用低于 1.21.0 的版本，请选择 4.1 版本游玩。
+:::
 
 「123云盘」[冒险小世界：剑之试炼 全版本](https://1816297926.share.123pan.cn/123pan/t3TqVv-77Tkh?notoken=1#aw42)
 「蓝奏云（密码：aw42）」[冒险小世界：剑之试炼 全版本](https://wwaa.lanzouo.com/b00653s6za#aw42)

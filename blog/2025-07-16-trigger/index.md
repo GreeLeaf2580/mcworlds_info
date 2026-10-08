@@ -31,9 +31,9 @@ tags: [二字十部曲, 小游戏, 解谜]
 
 ## ◎写在前面
 
-- 我不是美丽的花朵，不是甘甜的果实，我是**o绿叶o**。本图属于**二字十部曲**系列的第三作；第二作**旋转**之前参加过相关活动，第一作**深坑**为代投，以上作品待优化后重新上架。
-- 本图为了纪念跑酷和小游戏作者**风吹麦浪**而作。我在这里，等你回来。后续作者在黑历史里找到了他的联系方式，总算是大团圆。
-- 另外，感谢**一只卑微的量筒、大只毛茸茸的鸽子、狂野巴豆、小飞侠、lanos212、Ender5207541、Echeng、幻光溢彩、墨痕、ProjectXero**的地图测试，感谢**一只卑微的量筒、ProjectXero、6g3y、野鲤、土豆泥92**的命令、建造、贴图等技术支持，感谢**极筑工坊**的帮助。
+- 我不是美丽的花朵，不是甘甜的果实，我是**<img src="/img/author/greeleaf.jpg" alt="greeleaf.jpg" height="20"/>o绿叶o**。本图属于**二字十部曲**系列的第三作；第二作**旋转**之前参加过相关活动，第一作**深坑**为代投，以上作品待优化后重新上架。
+- 本图为了纪念跑酷和小游戏作者**<img src="/img/author/ripplingwheat.jpg" alt="ripplingwheat.jpg" height="20"/>风吹麦浪**而作。我在这里，等你回来。后续作者在黑历史里找到了他的联系方式，总算是大团圆。
+- 另外，感谢**<img src="/img/author/yzbwdlt.jpg" alt="yzbwdlt.jpg" height="20"/>一只卑微的量筒、<img src="https://github.com/PigeonKI.png" alt="pigeon_ki.jpg" height="20"/>大只毛茸茸的鸽子、<img src="/img/author/andy7343.jpg" alt="andy7343.jpg" height="20"/>狂野巴豆、<img src="/img/author/tck1122.jpg" alt="tck1122.jpg" height="20"/>小飞侠、<img src="/img/author/lanos212.jpg" alt="lanos212.jpg" height="20"/>lanos212、<img src="/img/author/ender5207541.jpg" alt="ender5207541.jpg" height="20"/>Ender5207541、<img src="/img/author/echeng.jpg" alt="echeng.jpg" height="20"/>Echeng、<img src="/img/author/huanguangyicai.jpg" alt="huanguangyicai.jpg" height="20"/>幻光溢彩、<img src="/img/author/mohen.jpg" alt="mohen.jpg" height="20"/>墨痕、<img src="/img/author/projectxero.jpg" alt="projectxero.jpg" height="20"/>ProjectXero**的地图测试，感谢**<img src="/img/author/yzbwdlt.jpg" alt="yzbwdlt.jpg" height="20"/>一只卑微的量筒、<img src="/img/author/projectxero.jpg" alt="projectxero.jpg" height="20"/>ProjectXero、6g3y、<img src="/img/author/wildcrap.jpg" alt="wildcrap.jpg" height="20"/>野鲤、<img src="/img/author/potato92.jpg" alt="potato92.jpg" height="20"/>土豆泥92**的命令、建造、贴图等技术支持，感谢**<img src="/img/author/arcticbuilding.jpg" alt="arcticbuilding.jpg" height="20"/>极筑工坊**的帮助。
 - 感谢您的下载与游玩。如果您是实况主，感谢您的录制。
 
 ---
@@ -62,8 +62,8 @@ tags: [二字十部曲, 小游戏, 解谜]
 
 ## ◎下载链接
 
-:::danger
-<img src="https://bugs.mojang.com/Minecraft_Bedrock.svg" alt="基岩版" width="80%"></img>
+:::danger[注意]
+<img src="https://bugs.mojang.com/Minecraft_Bedrock.svg" alt="基岩版" width="50%"></img>
 本地图为基岩版地图，地图文件为.mcworld或.mcworld.zip，适用于Minecraft国际版。网易中国版请从其资源中心搜索获取。
 :::
 
@@ -79,8 +79,8 @@ tags: [二字十部曲, 小游戏, 解谜]
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-|国内|[<img src="https://resource-minecraft.h5.163.com/static/favicon.png" alt="Neteasy" height="20"/>网易中国版资源中心](https://resource-minecraft.h5.163.com/#/detail?uid=2156009524&id=4678791372825514220)<br/>搜索地图名：触发+，组件码：2351523|[<img src="https://klpbbs.com/favicon.ico" alt="苦力怕论坛" height="20"/>苦力怕论坛](https://klpbbs.com/thread-159914-1-1.html)|[<img src="/img/download/minebbs.png" alt="MineBBS" height="20"/>MineBBS](https://www.minebbs.com/resources/11303/) |[<img src="https://www.titaike.cn/wp-content/uploads/2025/02/20250209003742140-zxld9-tswem-001.ico" alt="TITAKE" height="20"/>TITAIKE](https://www.titaike.cn/6649.html)|
-|国际|[**<img src="https://github.githubassets.com/favicons/favicon.png" alt="github" height="20"/>GitHub Releases(推荐)**](https://github.com/GreeLeaf2580/Trigger/releases)|[<img src="/img/download/mcpedl.ico" alt="mcpedl" height="20"/>MCPEDL](https://mcpedl.com/trigger/)|[<img src="/img/download/planetmc.png" alt="planetmc" height="20"/>Planet Minecraft](https://www.planetminecraft.com/project/trigger-6600634/)
+|国内|[<img src="/img/download/neteasy.png" alt="Neteasy" height="20"/>网易中国版资源中心](https://resource-minecraft.h5.163.com/#/detail?uid=2156009524&id=4678791372825514220)<br/>搜索地图名：触发+，组件码：2351523|[<img src="/img/download/klpbbs.png" alt="苦力怕论坛" height="20"/>苦力怕论坛](https://klpbbs.com/thread-159914-1-1.html)|[<img src="/img/download/minebbs.png" alt="MineBBS" height="20"/>MineBBS](https://www.minebbs.com/resources/11303/) |[<img src="/img/download/titaike.ico" alt="TITAKE" height="20"/>TITAIKE](https://www.titaike.cn/6649.html)|
+|国际|[**<img src="/img/download/github.ico" alt="github" height="20"/>GitHub Releases(推荐)**](https://github.com/GreeLeaf2580/Trigger/releases)|[<img src="/img/download/mcpedl.ico" alt="mcpedl" height="20"/>MCPEDL](https://mcpedl.com/trigger/)|[<img src="/img/download/planetmc.png" alt="planetmc" height="20"/>Planet Minecraft](https://www.planetminecraft.com/project/trigger-6600634/)
 
 
 
@@ -91,4 +91,4 @@ tags: [二字十部曲, 小游戏, 解谜]
 ### 网盘
 | | |
 | --- | --- |
-|[<img src="https://statics.123957.com/static-by-custom/favicon.ico" alt="123云盘" height="20" />123云盘](https://www.123684.com/s/wIwKTd-kua6d)  提取码:6Pa7|[<img src="https://assets.bakstotre.com/assets/favicon.ico" alt="蓝奏云" height="20" />蓝奏云](https://wwum.lanzoub.com/b0180j3na#Leaf) 密码:Leaf|
+|[<img src="/img/download/123684.ico" alt="123云盘" height="20" />123云盘](https://www.123684.com/s/wIwKTd-kua6d)  提取码:6Pa7|[<img src="/img/download/lanzou.ico" alt="蓝奏云" height="20" />蓝奏云](https://wwum.lanzoub.com/b0180j3na#Leaf) 密码:Leaf|
