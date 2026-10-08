@@ -107,7 +107,7 @@ _已适配地图列表：总部（Headquater）、图书馆（Library）、水�
 
 我们更推荐下载 .mcworld 的版本。网盘链接里包含 .mctemplate 地图模板文件，导入地图模板后，您可以在「开始游戏 - 创建新世界 - 我拥有的」中找到本模板。通过地图模板文件，您可以在本地无限创建新地图，而不再需要重新导入。
 
-[「<img src="/img/download/baidu.ico" alt="baidu.ico" height="20"/>百度网盘（提取码：ltmm）」]((https://pan.baidu.com/s/19DHEdwJstTeIHphNSZdFTg?pwd=ltmm)) [「<img src="/img/download/123684.ico" alt="123684.ico" height="20"/>123云盘」](https://1816297926.share.123pan.cn/123pan/t3TqVv-pZVah?notoken=1) [「<img src="/img/download/nekodrive.svg" alt="nekodrive.svg" height="20"/>NekoDrive」](https://app.nekodrive.net/home?path=cloudreve%3A%2F%2FvXgIe%40share)
+[「<img src="/img/download/baidu.ico" alt="baidu.ico" height="20"/>百度网盘（提取码：ltmm）」](https://pan.baidu.com/s/19DHEdwJstTeIHphNSZdFTg?pwd=ltmm) [「<img src="/img/download/123684.ico" alt="123684.ico" height="20"/>123云盘」](https://1816297926.share.123pan.cn/123pan/t3TqVv-pZVah?notoken=1) [「<img src="/img/download/nekodrive.svg" alt="nekodrive.svg" height="20"/>NekoDrive」](https://app.nekodrive.net/home?path=cloudreve%3A%2F%2FvXgIe%40share)
 
 **注意**：我们自己的云盘 NekoDrive 仅限提供下载，请勿随意进行注册！否则我们随时有权停用此链接和您在此网盘上的账户。
 
