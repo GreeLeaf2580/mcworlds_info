@@ -19,7 +19,7 @@ toc_max_heading_level: 2
 
 **出品** | <img src="/img/author/arcticbuilding.jpg" alt="arcticbuilding.jpg" height="20"/>极筑工坊
 
-**测试员** | <img src="/img/author/andy7343.jpg" alt="andy7343.jpg" height="20"/>巴豆（Andy7343）、<img src="/img/author/krischambers.jpg" alt="krischambers.jpg" height="20"/>文雨（KrisWenYu）、<img src="https://github.com/PumpkinJui.png" alt="pumpkinjui.jpg" height="20"/>南瓜汁（PumpkinJui）、<img src="https://github.com/PigeonKI.png" alt="pigeon_ki.jpg" height="20"/>鸽子（PigeonKI）等 42 人（详情见 [制作人表 | 量筒测试群 群文档](https://docs.nekoawa.com/docs/resources/mm/credits)）
+**测试员** | <img src="/img/author/andy7343.jpg" alt="andy7343.jpg" height="20"/>狂野巴豆（Andy7343）、<img src="/img/author/krischambers.jpg" alt="krischambers.jpg" height="20"/>文雨（KrisWenYu）、<img src="/img/author/pumpkinjui.jpg" alt="pumpkinjui.jpg" height="20"/>南瓜汁（PumpkinJui）、<img src="/img/author/pigeon_ki.jpg" alt="pigeon_ki.jpg" height="20"/>鸽子（PigeonKI）等 42 人（详情见 [制作人表 | 量筒测试群 群文档](https://docs.nekoawa.com/docs/resources/mm/credits)）
 
 **特别鸣谢** | <img src="/img/author/tetrisoo.jpg" alt="TITAKE" height="20"/>珂朵莉（Tetrisoo），感谢珂朵莉的赞助和对本项目的超大力支持！
 
@@ -52,7 +52,7 @@ _已适配地图列表：总部（Headquater）、图书馆（Library）、水�
 
 我们在 Hypixel 进行了超多轮实地考察，对不少机制都进行了深入研究，部分文本、方块细节等更是像素级还原！例如，被其他玩家杀死后，会生成一具尸体；当飞刀击中玻璃板后，会穿过玻璃板并产生裂纹，等等。
 
-值得注意的是，我们在地图中还首次引入了自定义头颅。Hypixel 的建筑师们非常喜欢用自定义头颅，他们足足在 31 张地图中用了 300 多种头颅！然而，我们的 <img src="/img/author/greeleaf.jpg" alt="greeleaf.jpg" height="20"/>o绿叶o（GreeLeaf）、<img src="https://github.com/PumpkinJui.png" alt="pumpkinjui.jpg" height="20"/>南瓜汁（PumpkinJui）、<img src="/img/author/andy7343.jpg" alt="andy7343.jpg" height="20"/>狂野巴豆（Andy7343）不畏困难，直接在地图内实装了这 300 多种头颅。
+值得注意的是，我们在地图中还首次引入了自定义头颅。Hypixel 的建筑师们非常喜欢用自定义头颅，他们足足在 31 张地图中用了 300 多种头颅！然而，我们的 <img src="/img/author/greeleaf.jpg" alt="greeleaf.jpg" height="20"/>o绿叶o（GreeLeaf）、<img src="/img/author/pumpkinjui.jpg" alt="pumpkinjui.jpg" height="20"/>南瓜汁（PumpkinJui）、<img src="/img/author/andy7343.jpg" alt="andy7343.jpg" height="20"/>狂野巴豆（Andy7343）不畏困难，直接在地图内实装了这 300 多种头颅。
 
 ![游轮的音响_压缩.webp](./image/邮轮的音响_压缩.png)
 游轮中的音响
