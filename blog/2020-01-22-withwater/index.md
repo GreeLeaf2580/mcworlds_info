@@ -66,7 +66,7 @@ With Water由水下呼吸效果制成的 寻找出口的解谜，带一些跑酷
 
 ### 测试群获取
 
-欢迎加入[极筑 · 量筒地图测试群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&group_code=673941729)，从群文件中获取
+欢迎加入[极筑 · 量筒地图测试群](https://qm.qq.com/q/VcETyNtbqu)，从群文件中获取
 
 ### 网盘
 

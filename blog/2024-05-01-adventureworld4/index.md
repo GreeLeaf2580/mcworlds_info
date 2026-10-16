@@ -91,7 +91,7 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 | ----------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
 | ![精美的场景设计（感谢 o绿叶o！）](./image/gallery/精美的场景设计（感谢%20o绿叶o！）.png) | ![场景设计2](./image/gallery/场景设计2.jpg) | ![场景设计3](./image/gallery/场景设计3.png) |
 
-<center>精美的场景设计（感谢 o绿叶o ！）​</center>
+<center>精美的场景设计（感谢 <AuthorMention authorKey="greeleaf" showAvatar/> ！）​</center>
 
 ### 动画再升级，技术再增光
 
@@ -127,10 +127,13 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 另外，如果您正在使用 1.21.0 或更高的版本，请选择最新版（4.2）游玩，该版本带来了方方面面的游玩体验提升；但如果您正在使用低于 1.21.0 的版本，请选择 4.1 版本游玩。
 :::
 
-「123云盘」[冒险小世界：剑之试炼 全版本](https://1816297926.share.123pan.cn/123pan/t3TqVv-77Tkh?notoken=1#aw42)
-「蓝奏云（密码：aw42）」[冒险小世界：剑之试炼 全版本](https://wwaa.lanzouo.com/b00653s6za#aw42)
-「百度网盘」[冒险小世界：剑之试炼 全版本](https://pan.baidu.com/share/init?surl=lt-ji0If782TgV_NsLq1gQ&pwd=mxsj#aw42)
-「GitHub」[YZBWDLT/Adventure-World-4 (github.com)](https://github.com/YZBWDLT/Adventure-World-4)
+「<img src="/img/download/123684.ico" alt="123684.ico" height="20"/>123云盘」[冒险小世界：剑之试炼 全版本](https://1816297926.share.123pan.cn/123pan/t3TqVv-77Tkh?notoken=1#aw42)
+
+「<img src="/img/download/lanzou.ico" alt="lanzou.ico" height="20"/>蓝奏云（密码：aw42）」[冒险小世界：剑之试炼 全版本](https://wwaa.lanzouo.com/b00653s6za#aw42)
+
+「<img src="/img/download/baidu.ico" alt="baidu.ico" height="20"/>百度网盘」[冒险小世界：剑之试炼 全版本](https://pan.baidu.com/share/init?surl=lt-ji0If782TgV_NsLq1gQ&pwd=mxsj#aw42)
+
+「<img src="/img/download/github.ico" alt="github.ico" height="20"/>GitHub」[YZBWDLT/Adventure-World-4 (github.com)](https://github.com/YZBWDLT/Adventure-World-4)
 
 注：**我们推荐优先使用123云盘下载**。
 
@@ -142,4 +145,4 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 
 我们已经将该地图发布到了许多平台上，下面是本地图发布的所有平台
 
-[「MineBBS」](https://www.minebbs.com/resources/pve.8392/)[「苦力怕论坛」](https://klpbbs.com/thread-137174-1-1.html)[「TITAIKE」](https://www.titaike.cn/5041.html)[「红石中继站」](https://www.mczwlt.net/resource/psbfnn56)
+[「<img src="/img/download/minebbs.png" alt="MineBBS" height="20"/>MineBBS」](https://www.minebbs.com/resources/pve.8392/)[「<img src="/img/download/klpbbs.png" alt="苦力怕论坛" height="20"/>苦力怕论坛」](https://klpbbs.com/thread-137174-1-1.html)[「<img src="/img/download/titaike.ico" alt="TITAKE" height="20"/>TITAIKE」](https://www.titaike.cn/5041.html)[「<img src="/img/download/mczwlt.ico" alt="mczwlt.ico" height="20"/>红石中继站」](https://www.mczwlt.net/resource/psbfnn56)

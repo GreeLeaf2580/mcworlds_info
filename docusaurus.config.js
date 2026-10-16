@@ -108,6 +108,27 @@ const config = {
         style: "dark",
         links: [
           {
+            title: "关于",
+            items: [
+              {
+                label: "本站的 GitHub 项目地址",
+                href: "https://github.com/GreeLeaf2580/mcworlds_info",
+              },
+              {
+                label: "本站使用 Docusaurus 构建",
+                href: "https://docusaurus.io/",
+              },
+              {
+                label:"黔ICP备2026018829号",
+                to:"https://beian.miit.gov.cn/",
+              },
+              {
+                label:"贵公网安备52270102000398号",
+                to:"https://beian.mps.gov.cn/#/query/webSearch?code=52270102000398"
+              }
+            ],
+          },
+          {
             title: "资源",
             items: [
               {
@@ -124,16 +145,12 @@ const config = {
             title: "文档",
             items: [
               {
-                label: "o绿叶o的技术文档",
-                to: "/docs/tech/",
+                label: "量筒测试群 群文档",
+                href: "https://docs.nekoawa.com"
               },
               {
                 label: "量筒的 Minecraft 基岩版开发文档",
                 href: "https://yzbwdlt.pages.dev/blog"
-              },
-              {
-                label: "量筒测试群 群文档",
-                href: "https://docs.nekoawa.com"
               },
             ],
           },
@@ -141,38 +158,21 @@ const config = {
             title: "联系我",
             items: [
               {
-                label: "极筑 · 量筒地图测试群",
-                href: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&group_code=673941729",
-              },
-              {
-                label: "BiliBili",
-                href: "https://space.bilibili.com/13388945",
-              },
-              {
                 label: "QQ",
                 href: "https://qm.qq.com/q/jmYMHADATS",
               },
-            ],
-          },
-          {
-            title: "关于",
-            items: [
               {
-                label: "Blog",
-                to: "/blog",
+                label: "bilibili",
+                href: "https://space.bilibili.com/13388945",
               },
               {
-                label: "本站GitHub项目地址",
-                href: "https://github.com/GreeLeaf2580/mcworlds_info",
-              },
-              {
-                label: "本站使用 Docusaurus 构建",
-                href: "https://docusaurus.io/",
+                label: "极筑 · 量筒地图测试群",
+                href: "https://qm.qq.com/q/VcETyNtbqu",
               },
             ],
           },
         ],
-        copyright: `版权归 © ${new Date().getFullYear()} o绿叶o 所有`,
+        copyright: `© 2025-${new Date().getFullYear()} o绿叶o`,
       },
       prism: {
         theme: prismThemes.github,

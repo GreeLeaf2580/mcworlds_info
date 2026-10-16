@@ -3,7 +3,7 @@ import { useBlogPost } from '@docusaurus/plugin-content-blog/client';
 
 export default function AuthorMention({ 
   authorKey, 
-  showAvatar = false,  // 是否显示头像
+  showAvatar = true,  // 是否显示头像
   showTitle = false,   // 是否显示头衔
 }) {
   // 获取当前博客文章的数据

@@ -13,6 +13,8 @@ toc_max_heading_level: 2
 
 <!-- truncate -->
 
+大家国庆快乐！为庆祝<img src="/img/author/arcticbuilding.jpg" alt="arcticbuilding.jpg" height="20"/>极筑工坊成立 9 周年，在周年庆这一天，我们隆重推出耗时 3 个月之久的新地图——《量筒的密室杀手》1.0 版本！
+
 ## ◎作者
 
 **作者** | <img src="/img/author/yzbwdlt.jpg" alt="yzbwdlt.jpg" height="20"/>一只卑微的量筒
@@ -93,7 +95,7 @@ _已适配地图列表：总部（Headquater）、图书馆（Library）、水�
 
 1.0 的发布并不是结束，只是一个开始！我们选择在今天发布，是因为今天是我们的工作室 极筑工坊 的 9 周年庆，并且我们评估该地图已高度可玩。显然，我们还有很多工作没有做，我们在后续的更新中会继续更新新的地图特性，并且引入新模式、新设置（包括飞刀皮肤、投掷物特效等都在我们的 TODO LIST 中）。等到中国版更新 26.40 时，我们还会将本地图同步到中国版！
 
-如果你对本地图的后续感兴趣，欢迎关注我的 B 站账号：[<img src="/img/author/yzbwdlt.jpg" alt="yzbwdlt.jpg" height="20"/>一只卑微的量筒](https://space.bilibili.com/241650193)。也欢迎加入我们的 QQ 测试群：[673941729](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&group_code=673941729)！
+如果你对本地图的后续感兴趣，欢迎关注我的 B 站账号：[<img src="/img/author/yzbwdlt.jpg" alt="yzbwdlt.jpg" height="20"/>一只卑微的量筒](https://space.bilibili.com/241650193)。也欢迎加入我们的 QQ 测试群：[673941729](https://qm.qq.com/q/VcETyNtbqu)！
 
 ## ◎地图下载
 
@@ -115,9 +117,9 @@ _已适配地图列表：总部（Headquater）、图书馆（Library）、水�
 
 如果您遇到了任何问题，您可以在以下平台提出您遇到的问题！
 
-- QQ 测试群：[673941729](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&group_code=673941729)，非诚勿扰，友好交流，本群拒绝不文明现象，违规者重罚！
-- B 站：[一只卑微的量筒](https://space.bilibili.com/241650193) 相关视频评论区
-- GitHub Issues：[GitHub](https://github.com/YZBWDLT/MurderMystery/issues)
+- <img src="/img/download/qq.png" alt="qq.png" height="20"/> QQ 测试群：[673941729](https://qm.qq.com/q/VcETyNtbqu)，非诚勿扰，友好交流，本群拒绝不文明现象，违规者重罚！
+- <img src="/img/download/bilibili.ico" alt="bilibili.ico" height="20"/> B 站：[一只卑微的量筒](https://space.bilibili.com/241650193) 相关视频评论区
+- <img src="/img/download/github.ico" alt="github" height="20"/> GitHub Issues：[GitHub](https://github.com/YZBWDLT/MurderMystery/issues)
 
 其他发布平台
 
@@ -145,3 +147,22 @@ _已适配地图列表：总部（Headquater）、图书馆（Library）、水�
 1. 十分欢迎各位服主使用本地图开服，我们的地图支持使用原版的 BDS 开服，如果您可以确保您使用的服务端支持原版脚本，那么也可以使用对应的服务端开服。
 2. 如果您要转载本地图，请务必注意遵守我们上文的规定——这非常简单，注明原作者和本帖链接就可以了。
 3. 最后，感谢您的游玩！祝您和您的朋友游玩愉快，祝你躲过杀手的追击！
+
+### 常见问题
+
+这里汇总了一些你可能会遇到的问题，希望对你有用！
+
+- **Q1** 在退出重进后，为什么我的定位器会失效？
+**A1** 这是基岩版引擎的一个漏洞导致的，Mojang 已于 26.60 修复此漏洞。如果你不幸遇到了此问题，请联系服主/房主使用 /reload 命令。
+
+- **Q2** 目前地图适配情况如何？
+**A2** 目前我们已适配了 10 张地图：总部、图书馆、水族馆、档案馆、阴森庄园（包括 V1）、港口小镇（包括 V1）、暗景秋色、Hypixel 游乐园、复活节游乐园、高坠塔。在后续版本还会对更多地图进行适配！
+
+- **Q3** 未来会发布到网易吗？
+**A3** 会！但是目前来说，出于一些比较重要的需求，我们必须将我们的最低要求版本设置到 26.40。在网易更新到此版本后，我们会尽快着手发布此地图！
+
+- **Q4** 未来的更新计划包括哪些内容？
+**A4** 未来我们会继续更新剩余的地图、以及更新 Hypixel 现有的双倍、刺客、感染等模式。也包括飞刀皮肤、投掷物特效等，敬请期待！
+
+- **Q5** 在哪里可以联系作者，反馈地图问题？
+**A5** 1. 欢迎在我们的 QQ 群：[673941729](https://qm.qq.com/q/VcETyNtbqu) 反馈问题！2. 你也可以直接在 GitHub 的本仓库[（YZBWDLT/MurderMystery）](https://github.com/YZBWDLT/MurderMystery/issues)上提交 issues，可以的话请留一个 Star 哦/w\。3. 也可以在 B 站对应的宣传片下留言，欢迎关注我的 B 站账号 [@一只卑微的量筒](https://space.bilibili.com/241650193) 哦awa
