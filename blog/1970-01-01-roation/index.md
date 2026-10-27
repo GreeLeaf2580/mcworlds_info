@@ -4,7 +4,7 @@ title: 旋转
 authors: greeleaf
 tags: [二字十部曲, 小游戏, 解谜]
 ---
-![旋转](./image/gallery/旋转%20封面.png)
+![旋转](./image/gallery/旋转%20封面.webp)
 Rotation 本图玩法还原手机游戏 _十步万度_
 感谢 _野鲤_ 提供玩法实现
 

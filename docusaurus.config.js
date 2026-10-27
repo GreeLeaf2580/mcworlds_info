@@ -150,7 +150,7 @@ const config = {
               },
               {
                 label: "量筒的 Minecraft 基岩版开发文档",
-                href: "https://yzbwdlt.pages.dev/blog"
+                href: "https://yzbwdlt.pages.dev"
               },
             ],
           },

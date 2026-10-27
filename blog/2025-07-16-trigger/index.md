@@ -4,7 +4,7 @@ title: 触发
 authors: greeleaf
 tags: [二字十部曲, 小游戏, 解谜]
 ---
-[![触发封面](./image/gallery/world_icon.jpeg)](/blog/trigger)
+[![触发封面](./image/gallery/world_icon.webp)](/blog/trigger)
 递进式创新解密的基岩版地图，完全支持多人合作游玩
 
 **当前为新版地图。旧版地图于2022年7月10日发布，现已经下架。**
@@ -31,9 +31,9 @@ tags: [二字十部曲, 小游戏, 解谜]
 
 ## ◎写在前面
 
-- 我不是美丽的花朵，不是甘甜的果实，我是<img src="/img/author/greeleaf.jpg" alt="greeleaf.jpg" height="20"/>**o绿叶o** 。本图属于**二字十部曲**系列的第三作；第二作**旋转**之前参加过相关活动，第一作**深坑**为代投，以上作品待优化后重新上架。
-- 本图为了纪念跑酷和小游戏作者<img src="/img/author/ripplingwheat.jpg" alt="ripplingwheat.jpg" height="20"/>**风吹麦浪** 而作。我在这里，等你回来。后续作者在黑历史里找到了他的联系方式，总算是大团圆。
-- 另外，感谢<img src="/img/author/yzbwdlt.jpg" alt="yzbwdlt.jpg" height="20"/>**一只卑微的量筒、<img src="/img/author/pigeon_ki.jpg" alt="pigeon_ki.jpg" height="20"/>大只毛茸茸的鸽子、<img src="/img/author/andy7343.jpg" alt="andy7343.jpg" height="20"/>狂野巴豆、<img src="/img/author/tck1122.jpg" alt="tck1122.jpg" height="20"/>小飞侠、<img src="/img/author/lanos212.jpg" alt="lanos212.jpg" height="20"/>lanos212、<img src="/img/author/ender5207541.jpg" alt="ender5207541.jpg" height="20"/>Ender5207541、<img src="/img/author/echeng.jpg" alt="echeng.jpg" height="20"/>Echeng、<img src="/img/author/huanguangyicai.jpg" alt="huanguangyicai.jpg" height="20"/>幻光溢彩、<img src="/img/author/mohen.jpg" alt="mohen.jpg" height="20"/>墨痕、<img src="/img/author/projectxero.jpg" alt="projectxero.jpg" height="20"/>ProjectXero**的地图测试，感谢<img src="/img/author/yzbwdlt.jpg" alt="yzbwdlt.jpg" height="20"/>**一只卑微的量筒、<img src="/img/author/projectxero.jpg" alt="projectxero.jpg" height="20"/>ProjectXero、6g3y、<img src="/img/author/wildcrap.jpg" alt="wildcrap.jpg" height="20"/>野鲤、<img src="/img/author/potato92.jpg" alt="potato92.jpg" height="20"/>土豆泥92**的命令、建造、贴图等技术支持，感谢<img src="/img/author/arcticbuilding.jpg" alt="arcticbuilding.jpg" height="20"/>**极筑工坊**的帮助。
+- 我不是美丽的花朵，不是甘甜的果实，我是<img src="/img/author/greeleaf.webp" alt="greeleaf.webp" height="20"/>**o绿叶o** 。本图属于**二字十部曲**系列的第三作；第二作**旋转**之前参加过相关活动，第一作**深坑**为代投，以上作品待优化后重新上架。
+- 本图为了纪念跑酷和小游戏作者<img src="/img/author/ripplingwheat.webp" alt="ripplingwheat.webp" height="20"/>**风吹麦浪** 而作。我在这里，等你回来。后续作者在黑历史里找到了他的联系方式，总算是大团圆。
+- 另外，感谢<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>**一只卑微的量筒、<img src="/img/author/pigeon_ki.webp" alt="pigeon_ki.webp" height="20"/>大只毛茸茸的鸽子、<img src="/img/author/andy7343.webp" alt="andy7343.webp" height="20"/>狂野巴豆、<img src="/img/author/tck1122.webp" alt="tck1122.webp" height="20"/>小飞侠、<img src="/img/author/lanos212.webp" alt="lanos212.webp" height="20"/>lanos212、<img src="/img/author/ender5207541.webp" alt="ender5207541.webp" height="20"/>Ender5207541、<img src="/img/author/echeng.webp" alt="echeng.webp" height="20"/>Echeng、<img src="/img/author/huanguangyicai.webp" alt="huanguangyicai.webp" height="20"/>幻光溢彩、<img src="/img/author/mohen.webp" alt="mohen.webp" height="20"/>墨痕、<img src="/img/author/projectxero.webp" alt="projectxero.webp" height="20"/>ProjectXero**的地图测试，感谢<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>**一只卑微的量筒、<img src="/img/author/projectxero.webp" alt="projectxero.webp" height="20"/>ProjectXero、6g3y、<img src="/img/author/wildcrap.webp" alt="wildcrap.webp" height="20"/>野鲤、<img src="/img/author/potato92.webp" alt="potato92.webp" height="20"/>土豆泥92**的命令、建造、贴图等技术支持，感谢<img src="/img/author/arcticbuilding.webp" alt="arcticbuilding.webp" height="20"/>**极筑工坊**的帮助。
 - 感谢您的下载与游玩。如果您是实况主，感谢您的录制。
 
 ---
@@ -41,18 +41,18 @@ tags: [二字十部曲, 小游戏, 解谜]
 ## ◎注意事项
 
 - 主要玩法：多合一的玩法创新式解密闯关。
-![关卡内](./image/gallery/in_level.jpg)
+![关卡内](./image/gallery/in_level.webp)
 
 -主线分为A-F六种类型的关卡，每种类型分为1-3的难度，难度2-3为支线，随着难度提升，玩法也在不断变得多样化。
-![选关](./image/gallery/hall.jpg)
+![选关](./image/gallery/hall.webp)
 
 -主线X为最终主线，为A-F的混合玩法，玩法之间环环相扣，较为困难。
-![选项](./image/gallery/option.jpg)
+![选项](./image/gallery/option.webp)
 -获得信物来解锁奖励关，探索关卡内场景以开启隐藏关。
 
 ---
 
-![关卡一览](./image/gallery/all_levels.png)
+![关卡一览](./image/gallery/all_levels.webp)
 
 - **配置需求：中等偏上，比较低配的设备可能会出现发热、卡顿等情况**
 - **游玩时间：速通约40分钟，正式游玩可能约1.5小时及以上**
@@ -79,8 +79,8 @@ tags: [二字十部曲, 小游戏, 解谜]
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-|国内|[<img src="/img/download/neteasy.png" alt="Neteasy" height="20"/>网易中国版资源中心](https://resource-minecraft.h5.163.com/#/detail?uid=2156009524&id=4678791372825514220)<br/>搜索地图名：触发+，组件码：2351523|[<img src="/img/download/klpbbs.png" alt="苦力怕论坛" height="20"/>苦力怕论坛](https://klpbbs.com/thread-159914-1-1.html)|[<img src="/img/download/minebbs.png" alt="MineBBS" height="20"/>MineBBS](https://www.minebbs.com/resources/11303/) |[<img src="/img/download/titaike.ico" alt="TITAKE" height="20"/>TITAIKE](https://www.titaike.cn/6649.html)|
-|国际|[**<img src="/img/download/github.ico" alt="github" height="20"/>GitHub Releases(推荐)**](https://github.com/GreeLeaf2580/Trigger/releases)|[<img src="/img/download/mcpedl.ico" alt="mcpedl" height="20"/>MCPEDL](https://mcpedl.com/trigger/)|[<img src="/img/download/planetmc.png" alt="planetmc" height="20"/>Planet Minecraft](https://www.planetminecraft.com/project/trigger-6600634/)
+|国内|[<img src="/img/download/neteasy.webp" alt="Neteasy" height="20"/>网易中国版资源中心](https://resource-minecraft.h5.163.com/#/detail?uid=2156009524&id=4678791372825514220)<br/>搜索地图名：触发+，组件码：2351523|[<img src="/img/download/klpbbs.webp" alt="苦力怕论坛" height="20"/>苦力怕论坛](https://klpbbs.com/thread-159914-1-1.html)|[<img src="/img/download/minebbs.webp" alt="MineBBS" height="20"/>MineBBS](https://www.minebbs.com/resources/11303/) |[<img src="/img/download/titaike.ico" alt="TITAKE" height="20"/>TITAIKE](https://www.titaike.cn/6649.html)|
+|国际|[**<img src="/img/download/github.ico" alt="github" height="20"/>GitHub Releases(推荐)**](https://github.com/GreeLeaf2580/Trigger/releases)|[<img src="/img/download/mcpedl.ico" alt="mcpedl" height="20"/>MCPEDL](https://mcpedl.com/trigger/)|[<img src="/img/download/planetmc.webp" alt="planetmc" height="20"/>Planet Minecraft](https://www.planetminecraft.com/project/trigger-6600634/)
 
 
 

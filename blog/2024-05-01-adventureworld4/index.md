@@ -6,7 +6,7 @@ tags: [PVE, 参与]
 toc_max_heading_level: 2
 ---
 
-[![冒险小世界：剑之试炼封面](./image/gallery/world_icon.jpeg)](/blog/adventureworld4)
+[![冒险小世界：剑之试炼封面](./image/gallery/world_icon.webp)](/blog/adventureworld4)
 欢迎你来参观！这是一张适用于基岩版 1.21.0+的PVE地图 󠄹󠅀󠄪󠄡󠄨󠄠󠄞󠄡󠄦󠄨󠄞󠄡󠄩󠄥󠄞󠄢󠄤󠄣󠅬󠅅󠅃󠄵󠅂󠄪󠅗󠅥󠅕󠅣󠅤󠅬󠅄󠄹󠄽󠄵󠄪󠄢󠄠󠄢󠄦󠄝󠄠󠄨󠄝󠄠󠄧󠄐󠄡󠄣󠄪󠄡󠄣󠄪󠄠󠄠󠅬󠇓󠅰󠆀󠅄󠄹󠅄󠄱󠄹󠄻󠄵󠇓󠅰󠆁󠅄󠇕󠆔󠆚󠇗󠆗󠆁󠇗󠆭󠆁󠄐󠇗󠅹󠅸󠇖󠆍󠅳󠇖󠅹󠅰󠇖󠆌󠅹—— 冒险小世界：剑之试炼！
 
 本作剧情基于在中国版的《冒险世界：苏醒》，为该作的续作。当然，没有玩过前作的朋友也可放心下载本地图游玩！
@@ -57,7 +57,7 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 
 在前作的《冒险世界：苏醒》中，原作者 <AuthorMention authorKey="andy7343" showAvatar/> 使用了盔甲架和按钮的方式实现了NPC的交互。但现在，我们实现了右键即可与NPC完成交互，更加真实而自然，和按钮说拜拜吧！
 
-![与田英对话](./image/gallery/与田英对话.png)
+![与田英对话](./image/gallery/与田英对话.webp)
 
 <center>与田英对话</center>
 
@@ -65,7 +65,7 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 
 我们对各种怪物都进行了不同程度的修改，使地图更具有趣味性和挑战性。例如，骷髅箭矢的速度被大幅放慢，但却百发百中；蜘蛛和洞穴蜘蛛都将带来恼人的debuff，等等...... 此外大多数怪物都具有等级之分，高级的怪物将更加强悍且更致命，这些都是你在游玩别的地图时所体验不到的！
 
-![战斗时](./image/gallery/战斗时.png)
+![战斗时](./image/gallery/战斗时.webp)
 
 <center>分级怪物</center>
 
@@ -75,13 +75,13 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 
 | 第1个Boss——骷髅王                                            | 第3个Boss —— 烈焰之魂，正在释放技能                              |
 | ------------------------------------------------------------ | ---------------------------------------------------------------- |
-| ![第一个Boss骷髅王](./image/gallery/第一个Boss%20骷髅王.png) | ![第三个Boss烈焰之魂](./image/gallery/第三个Boss%20烈焰之魂.png) |
+| ![第一个Boss骷髅王](./image/gallery/第一个Boss%20骷髅王.webp) | ![第三个Boss烈焰之魂](./image/gallery/第三个Boss%20烈焰之魂.webp) |
 
 ### 雪球？绳枪！
 
 作为前作的《冒险世界：苏醒》中雪球的平替，绳枪的使用简单、高效而直接。
 
-![绳枪](./image/gallery/绳枪.png)
+![绳枪](./image/gallery/绳枪.webp)
 
 ### 精美的建筑装饰，细节拉满
 
@@ -89,7 +89,7 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 
 |                                                                                           |                                             |                                             |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
-| ![精美的场景设计（感谢 o绿叶o！）](./image/gallery/精美的场景设计（感谢%20o绿叶o！）.png) | ![场景设计2](./image/gallery/场景设计2.jpg) | ![场景设计3](./image/gallery/场景设计3.png) |
+| ![精美的场景设计（感谢 o绿叶o！）](./image/gallery/精美的场景设计（感谢%20o绿叶o！）.webp) | ![场景设计2](./image/gallery/场景设计2.webp) | ![场景设计3](./image/gallery/场景设计3.webp) |
 
 <center>精美的场景设计（感谢 <AuthorMention authorKey="greeleaf" showAvatar/> ！）​</center>
 
@@ -97,7 +97,7 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 
 在本作的剧情模式中，我们尝试运用新技术实现了诸多视角动画效果，而不再是单调地转圈圈或直勾勾地向前。此外，我们还利用附加包实现了粒子和实体动画，并运用在激动人心的拔剑动画上！
 
-![拔剑动画](./image/gallery/拔剑动画.png)
+![拔剑动画](./image/gallery/拔剑动画.webp)
 
 <center>拔剑动画</center>
 
@@ -105,7 +105,7 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 
 结束了吗？如结！我们在地图的结尾设置了很多具有挑战性的成就，你能否完成这些挑战呢？
 
-![成就](./image/gallery/成就.png)
+![成就](./image/gallery/成就.webp)
 
 <center>成就系统</center>
 
@@ -145,4 +145,4 @@ _本地图为冒险世界系列作品中的小插曲，为PVE类型，未玩过�
 
 我们已经将该地图发布到了许多平台上，下面是本地图发布的所有平台
 
-[「<img src="/img/download/minebbs.png" alt="MineBBS" height="20"/>MineBBS」](https://www.minebbs.com/resources/pve.8392/)[「<img src="/img/download/klpbbs.png" alt="苦力怕论坛" height="20"/>苦力怕论坛」](https://klpbbs.com/thread-137174-1-1.html)[「<img src="/img/download/titaike.ico" alt="TITAKE" height="20"/>TITAIKE」](https://www.titaike.cn/5041.html)[「<img src="/img/download/mczwlt.ico" alt="mczwlt.ico" height="20"/>红石中继站」](https://www.mczwlt.net/resource/psbfnn56)
+[「<img src="/img/download/minebbs.webp" alt="MineBBS" height="20"/>MineBBS」](https://www.minebbs.com/resources/pve.8392/)[「<img src="/img/download/klpbbs.webp" alt="苦力怕论坛" height="20"/>苦力怕论坛」](https://klpbbs.com/thread-137174-1-1.html)[「<img src="/img/download/titaike.ico" alt="TITAKE" height="20"/>TITAIKE」](https://www.titaike.cn/5041.html)[「<img src="/img/download/mczwlt.ico" alt="mczwlt.ico" height="20"/>红石中继站」](https://www.mczwlt.net/resource/psbfnn56)
