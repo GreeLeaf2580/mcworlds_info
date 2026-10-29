@@ -61,6 +61,8 @@ _已适配地图列表：总部（Headquater）、图书馆（Library）、水�
 
 此外，为了游戏体验，我们还首次引入了方块形式的画——可以保证玩家无论如何不能破坏掉画。
 
+详情可见本文的[副产物：自定义方块包](#副产物自定义方块包)
+
 ### 高度自定义化的体验——设置、临终遗言、主动旁观
 
 我们在本地图中依然引入了设置选项，并引入了将近 30 项管理员设置，大幅度丰富你的游戏体验！你完全可以通过我们提供的设置实现包括但不限于以下玩法：
@@ -138,7 +140,7 @@ _已适配地图列表：总部（Headquater）、图书馆（Library）、水�
 
 ### 开发历程记录：量筒的密室杀手——1.0 - Exp 1测试（1）
 
-在巴豆的这个合集中，记载了我们从第一个测试版到最后成品版本的所有测试记录视频。如果你感兴趣，可以看一看，或者也可以看我们提供的[全部版本更新日志]查看曾经的测试版是如何一路走来的。
+在<img src="/img/author/andy7343.webp" alt="andy7343.webp" height="20"/>巴豆（Andy7343）的这个合集中，记载了我们从第一个测试版到最后成品版本的所有测试记录视频。如果你感兴趣，可以看一看，或者也可以看我们提供的[全部版本更新日志]查看曾经的测试版是如何一路走来的。
 
 <iframe src='//player.bilibili.com/player.html?bvid=BV1CLTb6gEMh&cid=39627981177&autoplay=0' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'></iframe>
 
@@ -166,3 +168,57 @@ _已适配地图列表：总部（Headquater）、图书馆（Library）、水�
 
 - **Q5** 在哪里可以联系作者，反馈地图问题？
 **A5** 1. 欢迎在我们的 QQ 群：[673941729](https://qm.qq.com/q/VcETyNtbqu) 反馈问题！2. 你也可以直接在 GitHub 的本仓库[（YZBWDLT/MurderMystery）](https://github.com/YZBWDLT/MurderMystery/issues)上提交 issues，可以的话请留一个 Star 哦/w\。3. 也可以在 B 站对应的宣传片下留言，欢迎关注我的 B 站账号 [@一只卑微的量筒](https://space.bilibili.com/241650193) 哦awa
+
+---
+
+## ◎副产物：自定义方块包
+
+此包位于地图存档中的``behavior_packs/BP_muder_mystery_blocks``和``rescource_packs/RP_muder_mystery_blocks``，包含自定义头颅、冻结方块、方块画三个部分。
+
+### 自定义头颅包
+
+为了<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>量筒（YZBWDLT）完美还原密室杀手，而使用[chunker](https://www.chunker.app/)从Java版地图转为基岩版地图的过程中，一些装饰性头颅会变为“玩家的头”这个史蒂夫头颅。所以早期版本地图里会存在“人头树”、“人头音响”、“人头葡萄架”等，这实在是太戏剧性了。
+
+|邮轮|总部|牛脊农场|
+|---|---|---|
+|![邮轮人头音响](./image/邮轮人头音响.webp)|![总部人头树](./image/总部人头树.webp)|![牛脊农场人头树](./image/牛脊农场人头树.webp)|
+|![邮轮音响](./image/邮轮音响.webp)|![总部青苹果树](./image/总部苹果树.webp)|![牛脊农场青苹果树](./image/牛脊农场苹果树.webp)|
+
+但由于头颅太多，大概近400种，放置位置成百上千个，<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>量筒（YZBWDLT）认为自己没有必要花时间在这些重复的小事情上，自己一个个适配这些头颅可能要做到猴年马月了。但<img src="/img/author/greeleaf.webp" alt="greeleaf.webp" height="20"/>o绿叶o（GreeLeaf）还是想着还原一下，毕竟有可能里面的一些自定义头颅未来可能会有大作用，于是牵头了**自定义头颅**资源包，于[量筒的密室杀手1.0 - Snapshot7](https://groupdocs.pages.dev/docs/resources/mm/update_log/1_0#10---snapshot-7)加入。
+
+![物品栏的头颅](./image/物品栏的头颅.webp)
+
+~*截图时物品栏头颅的位移为基岩版bug*~
+
+<img src="/img/author/greeleaf.webp" alt="greeleaf.webp" height="20"/>o绿叶o（GreeLeaf）通过按键``F3+i``采集的Minecraft Java的客户端的自定义头颅数据，按游戏区域名称分类 **人工手动** 写入到对应的``res/*.txt``中。通过<img src="/img/author/pumpkinjui.webp" alt="pumpkinjui.webp" height="20"/>南瓜汁编写的脚本[mm_heads](https://github.com/PumpkinJui/mm_script)逐行提取自定义头颅的皮肤，爬取并重命名为[minecraft-heads](https://minecraft-heads.com)上显示的名称，最后将放置信息写入``info.json``中，打包输出Minecraft Bedrock的行为包和资源包的零散的json文件。<img src="/img/author/krischambers.webp" alt="krischambers.webp" height="20"/>文雨（KrisWenYu）进行头颅命名的翻译审查。后续[minecraft-heads](https://minecraft-heads.com)增加了反爬策略，只能手动一个个翻译头颅名称。<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>量筒（YZBWDLT）最后将行为包和资源包统一打包为``behavior_packs/BP_muder_mystery_head``和``rescource_packs/RP_muder_mystery_head``。此外，<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>量筒（YZBWDLT）还在其资源包中写入了自动放置脚本，以及检查游戏区域内玩家头颅未被替换，便于添加地图的<img src="/img/author/andy7343.webp" alt="andy7343.webp" height="20"/>巴豆（Andy7343）一键添加头颅，便于<img src="/img/author/greeleaf.webp" alt="greeleaf.webp" height="20"/>o绿叶o（GreeLeaf）的手动补充采集头颅数据，<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>量筒（YZBWDLT）的恩情还不完……
+
+[**查询所有的自定义头颅名称**](https://github.com/YZBWDLT/MurderMystery/blob/main/resource_packs/RP_murder_mystery_blocks/texts/zh_CN.lang)
+
+### 冻结方块包
+
+水族馆、档案馆、档案馆顶层、 ~邮轮~ 这些地图使用冻结更新的羊毛地毯来模拟水面、太空、展柜顶部、 ~遮阳棚~ ，可以使用结构空位解决。
+
+|档案馆顶层|水族馆|淘金热|
+|---|---|---|
+|![档案馆顶层无水草](./image/档案馆顶层无水草.webp)|![水族馆无水草](./image/水族馆无水草.webp)|![淘金热无仙人掌](./image/淘金热无仙人掌.webp)|
+|![档案馆顶层有水草](./image/档案馆顶层有水草.webp)|![水族馆有水草](./image/水族馆有水草.webp)|![淘金热有仙人掌](./image/淘金热有仙人掌.webp)|
+
+但牛脊农场中的耕地能被踩掉。水族馆、档案馆顶层这两张地图中，原版使用了许多冻结更新的植物来模拟水草；淘金热、档案馆顶层、 ~古墓~ 这些地图中，有一些冻结更新的、空中的、非法放置的仙人掌，而使用[chunker](https://www.chunker.app/)从Java版地图转为基岩版地图的过程中，这些冻结方块会全部丢失。
+
+相似地，<img src="/img/author/greeleaf.webp" alt="greeleaf.webp" height="20"/>o绿叶o（GreeLeaf）通过按键``F3+i``采集的Minecraft Java的客户端的冻结方块的数据，按游戏区域名称分类 **人工手动** 写入到对应的``raw/*.txt``中。<img src="/img/author/greeleaf.webp" alt="greeleaf.webp" height="20"/>o绿叶o（GreeLeaf）通过仿写[mm_heads](https://github.com/PumpkinJui/mm_script)编写脚本[mm_freeze_block](https://github.com/GreeLeaf2580/mm_freezed_blocks)逐行提取冻结方块的位置信息，将放置信息写入``info.json``中。<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>量筒（YZBWDLT）最后将行为包和资源包统一打包为``behavior_packs/BP_muder_mystery_freeze_block``和``rescource_packs/RP_muder_mystery_freeze_block``。最后由<img src="/img/author/andy7343.webp" alt="andy7343.webp" height="20"/>巴豆（Andy7343）放置于地图内。<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>量筒（YZBWDLT）的恩情还不完……
+
+![物品栏的冻结更新方块](./image/物品栏的冻结更新方块.webp)
+
+<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>量筒（YZBWDLT）制作了``behavior_packs/BP_muder_mystery_freeze_block``和``rescource_packs/RP_muder_mystery_freeze_block``示例耕地和高草丛上下半层的模板包。<img src="/img/author/greeleaf.webp" alt="greeleaf.webp" height="20"/>o绿叶o（GreeLeaf）仿照这两个模板包完善了游戏区域中的植物。在看了[量筒的Minecraft基岩版开发文档](https://yzbwdlt.pages.dev/)后，参考Java版仙人掌模型的实现方式，新增了仙人掌模型cactus.geo.json，新增了仙人掌的冻结状态。随着[量筒的密室杀手1.0 - Exp8](https://groupdocs.pages.dev/docs/resources/mm/update_log/1_0#10---exp-9)加入。后续或许会增加其他的冻结方块，如沙子和流动的水咕咕咕
+
+### 方块画包
+
+基岩版的画不同于JAVA版，并没有Invulnerable这个参数的设置，玩家在冒险模式下仍然能够破坏画。
+
+|物品栏的画|物品栏的画放置器|
+|---|---|
+|![物品栏的画](./image/物品栏的画.webp)|![物品栏的画放置器](./image/物品栏的画放置器.webp)|
+
+<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>量筒（YZBWDLT）下定决心将所有的画都制作成可穿透的而冒险模式下无法破坏的自定义方块，使用画放置器才能放置画。<img src="/img/author/pumpkinjui.webp" alt="pumpkinjui.webp" height="20"/>南瓜汁在mm_heads的基础上，融合了[mm_freeze_block](https://github.com/GreeLeaf2580/mm_freezed_blocks)，编写了[mm_script](https://github.com/PumpkinJui/mm_script)，结合<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>量筒（YZBWDLT）给的模板将所有的原版画作进行分割（包括四张Java版独有的四元素画），生成``behavior_packs/BP_muder_mystery_painting``和``rescource_packs/RP_muder_mystery_painting``。最后由<img src="/img/author/andy7343.webp" alt="andy7343.webp" height="20"/>巴豆（Andy7343）放置于地图内。
+
+最终，于[量筒的密室杀手1.0 - Pre1](https://groupdocs.pages.dev/docs/resources/mm/update_log/1_0#10---pre-1)，<img src="/img/author/yzbwdlt.webp" alt="yzbwdlt.webp" height="20"/>量筒（YZBWDLT）将三个包整合在一起，生成了``behavior_packs/BP_muder_mystery_blocks``和``rescource_packs/RP_muder_mystery_blocks``。

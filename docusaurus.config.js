@@ -16,7 +16,7 @@ const config = {
   favicon: "img/favicon.jpg",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://greeleaf.pages.dev",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -137,7 +137,7 @@ const config = {
               },
               {
                 label: "量筒测试群 群文档/群资源",
-                href: "https://docs.nekoawa.com/docs/resources/bedwars/"
+                href: "https://docs.nekoawa.com/docs/tags"
               }
             ]
           },
